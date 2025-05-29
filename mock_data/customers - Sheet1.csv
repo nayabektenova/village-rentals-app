@@ -1,0 +1,4 @@
+customer_id,last_name,first_name,contact_phone,e-mail,status
+1001,Doe,John,(555) 555-1212,jd@sample.net,FALSE
+1002,Smith,Jane,(555) 555-3434,js@live.com,TRUE
+1003,Lee,Michael,(555) 555-5656,ml@sample.net,FALSE
